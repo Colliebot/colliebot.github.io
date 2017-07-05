@@ -1,4 +1,4 @@
 title: Colliebot Landing Page
 description: Colliebot is a chat utility and moderation bot for Discord
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-minimal
